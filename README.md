@@ -4,7 +4,9 @@ MATLAB toolbox for computing whispering-gallery mode effective indices, resonanc
 
 ![Example output: Field distributions](figures/figure_fields.png)
 
-![Example output: Integrated dispersion](figures/figure_integrated_dispersion.png)
+<p align="center">
+  <img src="figures/figure_integrated_dispersion.png" width="600">
+</p>
 
 ## Approaches
 
