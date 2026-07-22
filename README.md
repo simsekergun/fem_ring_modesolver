@@ -2,7 +2,12 @@
 
 MATLAB toolbox for computing whispering-gallery mode effective indices, resonances, and dispersion of axisymmetric dielectric ring resonators using a 2.5D vector finite element method (edge + nodal elements) on the meridional cross-section.
 
-![Example output: Field distributions](figures/figure_fields.png)
+
+Electric and magnetic field distributions for the first resonant mode. The central radius, width, and height of the ring resonator are 23 $\mu$m, 890 nm, and 670 nm, respectively. The excitation wavelength is 1.06 $\mu$m.
+<p align="center">
+  <img src="figures/figure_fields.png" width="600">
+</p>
+
 
 <p align="center">
   <img src="figures/figure_integrated_dispersion.png" width="600">
