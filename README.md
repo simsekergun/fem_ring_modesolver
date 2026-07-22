@@ -2,6 +2,10 @@
 
 MATLAB toolbox for computing whispering-gallery mode effective indices, resonances, and dispersion of axisymmetric dielectric ring resonators using a 2.5D vector finite element method (edge + nodal elements) on the meridional cross-section.
 
+![Example output: Field distributions](figures/figure_fields.png)
+
+![Example output: Integrated dispersion](figures/figure_integrated_dispersion.png)
+
 ## Approaches
 
 Two complementary strategies are provided for finding the effective index at a target wavelength:
